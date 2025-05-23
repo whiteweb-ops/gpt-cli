@@ -1,4 +1,4 @@
-# GPT Terminal Chat (CLI)
+# GPT Terminal Chat
 
 A simple and lightweight terminal-based chat application using OpenAI's GPT-3.5-turbo or GPT-4 API.
 
