@@ -22,6 +22,10 @@ pip3 install openai | pip3 install rich
 
 python3 gpt-cli.py
 
+# YouTube Video
+
+https://youtu.be/xDFkPxr0_WI
+
 # License
 
 This project is licensed under the MIT License
