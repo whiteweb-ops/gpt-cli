@@ -18,29 +18,9 @@ A simple and lightweight terminal-based chat application using OpenAI's GPT-3.5-
 
 pip3 install openai | pip3 install rich
 
-Usage: python3 gpt-cli.py
+# Usage 
 
-# Why Terminal Chat?
-
-Pros:
-
-   - Lightweight and fast: No browser or heavy UI needed.
-
-   - Lower resource consumption: Uses less CPU and RAM than web-based UIs.
-
-   - Readable code and command outputs: Syntax highlighting makes code blocks easy to read.
-
-   - Privacy and security: Entirely runs in your terminal with no web trackers or unnecessary visuals.
-
-Cons:
-
-   - No graphical interface: No buttons, drag-and-drop, or visual enhancements.
-
-   - Less user-friendly for beginners: Not as intuitive as a GUI.
-
-   - No file upload or multimedia support: Text-only chat.
-
-   - Requires manual API key configuration.
+python3 gpt-cli.py
 
 # License
 
