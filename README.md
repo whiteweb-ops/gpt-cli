@@ -21,7 +21,7 @@ pip3 install rich
 
 Usage: python3 gpt-cli.py
 
-Why Terminal Chat?
+# Why Terminal Chat?
 
 Pros:
 
